@@ -52,10 +52,7 @@
 		kl= 0.555*(fh-32)+273;
 		printf(" Temp in Kelvin: %.3f:",kl);
 	}
-    if (ch==6,7,8,9)
-	{
-	printf(" Invalid choice !");
-	}
+    
 	
 	return 0;
 	getch();
